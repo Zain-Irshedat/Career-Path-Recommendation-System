@@ -44,4 +44,4 @@ The platform utilizes a dual-engine architecture:
 ---
 
 ## 📽️ Project Presentation
-📄 You can view the full project presentation slides directly [here](AI_Career_Pathfinder_Presentation.pdf).
+📄 You can view the full project presentation slides directly (AI_Career_Pathfinder_Presentation.pdf).
