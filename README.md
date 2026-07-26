@@ -40,3 +40,8 @@ The platform utilizes a dual-engine architecture:
          ▼                       ▼
  🎯 Primary Career       💡 Top 5 Alternative Careers
    Prediction               & Match Percentage
+
+---
+
+## 📽️ Project Presentation
+📄 You can view the full project presentation slides directly [here](AI_Career_Pathfinder_Presentation.pdf).
